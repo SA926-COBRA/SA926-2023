@@ -1,10 +1,10 @@
-# WWDC 2023 - Swift Student Challenge
-![WWDC2023 Logo](logo.png)
+# WWDC 2023 - Swift Student Challenge.
+![WWDC2023 Logo](logo.png)?
 
 List of student submissions for the WWDC 2023 - Swift Student Challenge.
 
 ### How to add your submission?
-1. [Click here](https://github.com/wwdc/2023/edit/main/Template.md) to fork this repository and edit the `Template.md` file.
+1. [Click here](https://github.com/SA926-COBRA/SA926-2023/edit/main/Template.md) to fork this repository and edit the `Template.md` file.
 2. Fill out the document based on the example in the comment below.
 3. Make a new Pull Request and wait for the review.
 
